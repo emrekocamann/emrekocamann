@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrekocamann&label=Profile%20views&color=0e75b6&style=flat" alt="emrekocamann" /> </p>
 
-- 🔭 I’m currently working on [AutomationExercise](https://automationexercise.com/)
 
 - 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [github.com/emrekocamann](github.com/emrekocamann)
 
-- 💬 Ask me about **Java, Selenium, Cypress, RestAssured, Postman**
+- 💬 Ask me about **Java, Selenium/WebDriver, Cucumber BDD, TestNG, Cypress, RestAssured, Postman**
 
 - 📫 How to reach me **emre.kocaman@hotmail.com**
 
